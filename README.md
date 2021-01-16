@@ -8,4 +8,4 @@ Feel free to add more to the list via PRs.
 
 1. Go to Portainer Settings
 2. Enable `Use external templates`
-3. Use the following URL `https://raw.githubusercontent.com/fristys/portainer_templates/master/template.json`
+3. Use the following URL `https://raw.githubusercontent.com/fristys/portainer_templates/master/templates.json`
